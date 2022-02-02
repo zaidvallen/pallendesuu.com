@@ -1,0 +1,60 @@
+.navbar{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  text-decoration-color: #40445A;
+}
+
+.container {
+  font-family: trueno;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  padding-bottom: 3rem;
+  background-color: #171D20;
+}
+
+.title {
+  font-family: trueno;
+  padding-top: 2rem;
+  color: #ffffff;
+}
+
+.desc {
+  font-family: trueno;
+  color: #ecf2f9;
+}
+
+.col {
+  padding-top: 8rem;
+  padding-bottom: 24px;
+}
+#about{
+  padding-bottom: 1rem;
+}
+
+.carouselExampleIndicators {
+  padding-top: 360px;
+}
+
+.galer {
+  margin-bottom: 2rem;
+}
+
+#Gallery {
+  padding-top: 10rem;
+}
+
+#Contact {
+  margin-top: 10rem;
+}
+
+.ngontak {
+  padding-top: 5rem;
+  margin-bottom: 3rem;
+}
+
+.nganjuk {
+  margin-top: 18rem;
+  margin-bottom: 2rem;
+}
